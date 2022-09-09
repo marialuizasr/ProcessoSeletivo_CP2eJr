@@ -1,0 +1,57 @@
+*{
+    font-family: "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+    padding: 0%;
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    color: white;
+}
+
+.centro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+}
+
+#links, .centro2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+p, b, i, ul{
+    font-size: 13px;
+}
+
+.verde {
+    color: #8FCCCC;
+}
+
+.cinza {
+    color: rgb(163, 163, 163);
+}
+
+#contato {
+    font-size: 12px;
+}
